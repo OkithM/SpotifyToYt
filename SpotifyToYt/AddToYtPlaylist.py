@@ -14,7 +14,7 @@ sys.stdout.reconfigure(encoding='utf-8')
 API_SERVICE_NAME = "youtube"
 API_VERSION = "v3"
 CLIENT_SECRETS_FILE = "client_secret.json" # You'll need to download this from Google Console
-PLAYLIST_ID = "Your playlist ID" # The ID of the playlist you want to add to
+PLAYLIST_ID = "YOUR_YOUTUBE_PLAYLIST_ID" # The ID of the playlist you want to add to
 
 # The name of the file containing the list of songs
 SONGS_FILE = "Songs.txt"
